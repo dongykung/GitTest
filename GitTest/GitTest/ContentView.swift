@@ -15,7 +15,7 @@ struct ContentView: View {
                 .foregroundStyle(.tint)
 
             Text("아니지?")
-            Text("rebase test")
+            Text("rebase test Omg")
         }
         .padding()
     }
