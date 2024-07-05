@@ -14,8 +14,11 @@ struct ContentView: View {
                 .imageScale(.large)
                 .foregroundStyle(.tint)
 
-            Text("아니지?")
-            Text("rebase test")
+            Button {
+                
+            } label: {
+                Text("Button")
+            }
         }
         .padding()
     }
