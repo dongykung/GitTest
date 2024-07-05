@@ -14,7 +14,7 @@ struct ContentView: View {
                 .imageScale(.large)
                 .foregroundStyle(.tint)
 
-            Text("아니지?")
+            Text("아닙니다~")
 
         }
         .padding()
