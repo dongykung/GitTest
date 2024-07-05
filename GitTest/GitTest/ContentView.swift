@@ -13,9 +13,13 @@ struct ContentView: View {
             Image(systemName: "globe")
                 .imageScale(.large)
                 .foregroundStyle(.tint)
-
             Text("아니지?")
             Text("rebase test Omg")
+            Button {
+                
+            } label: {
+                Text("Button")
+            }
         }
         .padding()
     }
